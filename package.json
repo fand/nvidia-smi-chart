@@ -1,5 +1,5 @@
 {
-  "name": "nvidia-smi-chart",
+  "name": "@fand/nvidia-smi-chart",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "asciichart": "^1.5.25"
   }
