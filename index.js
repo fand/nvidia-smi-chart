@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const asciichart = require("asciichart");
 const cp = require("child_process");
 
